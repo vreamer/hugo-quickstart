@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://vreamer.github.io/hugo-quickstart/"
 languageCode = "en-us"
 title = "Hello world"
 theme = "ananke"
