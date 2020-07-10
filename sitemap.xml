@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vreamer.github.io/hugo-quickstart/categories/</loc>
+    <loc>https://vreamer.github.io/hugo-quickstart/</loc>
+    <lastmod>2020-07-09T21:33:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vreamer.github.io/hugo-quickstart/</loc>
+    <loc>https://vreamer.github.io/hugo-quickstart/posts/my-first-post/</loc>
+    <lastmod>2020-07-09T21:33:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vreamer.github.io/hugo-quickstart/posts/</loc>
+    <lastmod>2020-07-09T21:33:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vreamer.github.io/hugo-quickstart/categories/</loc>
   </url>
   
   <url>
